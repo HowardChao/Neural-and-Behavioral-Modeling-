@@ -4,3 +4,7 @@
 ## Week_1:
 1. Finish Party Simulation
 2. Revision of 1.3 
+3. hw_1 get (2+1+1)
+
+## Week_2:
+1. Upload file to github
