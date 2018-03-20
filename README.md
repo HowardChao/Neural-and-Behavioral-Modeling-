@@ -8,3 +8,4 @@
 
 ## Week_2:
 1. Upload file to github
+2. Finish **Nonlinear love triangle** and **Fix the simulation of "Tragedy of the Commons"** 
