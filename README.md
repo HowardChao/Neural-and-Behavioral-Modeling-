@@ -13,3 +13,6 @@
 2. Finish **Nonlinear love triangle** and **Fix the simulation of "Tragedy of the Commons"** 
 
 * [week_2 homework](https://howardchao.github.io/Neural-and-Behavioral-Modeling/week_2/b05901180.html)
+
+## Week_3:
+1. Learn each model
