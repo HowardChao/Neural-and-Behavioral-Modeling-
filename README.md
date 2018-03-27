@@ -16,3 +16,6 @@
 
 ## Week_3:
 1. Learn each model
+2. Finish homework 3 ==> wolf-sheep model
+
+* [week 3 homework](https://howardchao.github.io/Neural-and-Behavioral-Modeling/week_3/b05901180.html)
