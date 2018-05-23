@@ -2,3 +2,5 @@
 .DS_Store
 *.exe
 *.pdf
+*.tar.gz
+cifar-10-batches-py/
